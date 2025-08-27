@@ -1,3 +1,5 @@
+![Progress](https://img.shields.io/badge/Progress-30%25-blue)
+
 # Week-1
 “Week 1 milestone for the Sustainable Agriculture project – includes dataset exploration, initial data preprocessing, and preliminary analysis for building sustainable farming insights.
 
@@ -26,7 +28,11 @@ This project focuses on analyzing crop production data to extract meaningful ins
 ### 🔹 Exploratory Data Analysis (EDA)
 - Yield distribution visualization  
 - Top 10 crops by total production  
-- Production trend over the years  
+- Production trend over the years
+- Rice and Wheat dominate overall production in India.
+- Some states show consistent dominance in crop yield, while others fluctuate.
+- A noticeable dip/spike in production trends is observed after certain years.
+- The cleaned dataset highlights clear seasonal and regional crop patterns.
 
 ---
 
