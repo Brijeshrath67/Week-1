@@ -55,7 +55,15 @@ This project focuses on analyzing crop production data to extract meaningful ins
 - **Week 1** → Data preprocessing + EDA ✅  
 - **Week 2** → Feature engineering + ML model building  
 - **Week 3** → Model optimization + deployment using Streamlit  
-- **Week 4** → Final report + GitHub documentation  
+- **Week 4** → Final report + GitHub documentation
+
+ 📂 data/
+   ├── crop_production.csv
+   ├── crop_yield_cleaned.csv
+ 📂 notebooks/
+   ├── Week1_EDA.ipynb
+ 📂 reports/
+   ├── README.md
 
 ---
 
