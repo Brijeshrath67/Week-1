@@ -2,7 +2,7 @@
 “Week 1 milestone for the Sustainable Agriculture project – includes dataset exploration, initial data preprocessing, and preliminary analysis for building sustainable farming insights.
 
 
-# 🌱 Sustainable Agriculture Using Machine Learning
+# 🌱 SUSTAINABLE AGRICULTURE USING MACHINE LEARNING & DEEP LEARNING ALGORITHMS
 
 This project focuses on analyzing crop production data to extract meaningful insights that can help in building sustainable farming solutions.
 
